@@ -1,0 +1,14 @@
+ETag					|	"_rmWcTkH-s1QFjg9mC3Xel0FZSQ/gJIX7X5fuhQunJhy7nw4svzBJks"	|	An identifier
+Content-Length			|	26982														|	Length of response
+#status#				|	HTTP/1.1 200 OK												|	Status of HTTP response
+X-XSS-Protection		|	1; mode=block												|	Cross-site scripting filter
+Expires					|	Mon, 09 Feb 2015 05:30:30 GMT								|	Expiration date of response
+Alternate-Protocol		|	443:quic,p=0.02												|	Indicates that a server supports SPDY
+Server					|	GSE															|	Server name
+X-Content-Type-Options	|	nosniff														|	Prevents Internet Explorer from MIME-sniffing a response away from the declared content-type
+Cache-Control			|	private, max-age=0, must-revalidate, no-transform			|	Determines whether or not this content is allowed to be cached
+X-Frame-Options			|	SAMEORIGIN													|	Clickjacking protection
+Vary					|	Origin														|	Determines whether to use cached response or request new one
+Vary					|	X-Origin													|	Determines whether to use cached response or request new one
+Date					|	Mon, 09 Feb 2015 05:30:30 GMT								|	Date response was sent
+Content-Type			|	application/json; charset=UTF-8								|	MIME type of the request

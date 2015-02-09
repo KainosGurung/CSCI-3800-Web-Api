@@ -1,0 +1,10 @@
+X-AspNet-Version	|	4.0.30319						|	Specifies the version of ASP.NET
+Vary				|	Accept-Encoding					|	Determines whether to use cached response or request new one
+Date				|	Mon, 09 Feb 2015 05:48:59 GMT	|	Date response was sent
+Content-Length		|	403								|	Length of response
+#status#			|	HTTP/1.1 200 OK					|	Status of HTTP response
+Content-Encoding	|	gzip							|	Encoding type 
+Content-Type		|	text/xml; charset=utf-8			|	MIME type of the request
+Server				|	Microsoft-IIS/7.0				|	Server name
+X-Powered-By		|	ASP.NET							|	Technology supporting the web-app
+Cache-Control		|	private, max-age=0				|	Determines whether or not this content is allowed to be cached

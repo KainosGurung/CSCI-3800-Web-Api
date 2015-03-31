@@ -1,0 +1,3 @@
+– Basic Authorization is easily handled in the main flow, without the need for an additional proxy. Give one reason (there are many) OAuth tokens should not be granted in the main flow, assuming the user has sent in the correct credentials.
+
+Oauth tokens should not be granted in the main flow because you want to seperate basic and oauth authorization schemes.

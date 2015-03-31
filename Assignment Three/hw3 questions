@@ -1,0 +1,1 @@
+Oauth tokens should not be granted in the main flow because that's where basic authorization takes place and you want to seperate the two authorization schemes.
